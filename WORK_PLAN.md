@@ -23,9 +23,9 @@ All 31 topic pages begin as templates. Their presence does not mean the research
 
 ## Completion and coordination
 
-Each person is responsible for the pages listed above. Reply in the group chat to acknowledge the assignment, share your GitHub username/fork, and post your PR link when ready. Raise blockers as soon as they appear. Ahmet reviews PRs, checks the completed project, and handles the final submission.
+Each person is responsible for the pages listed above. Reply in the group chat to acknowledge the assignment, share your GitHub username/fork, and post your PR link when ready. Raise blockers as soon as they appear. Ahmet reviews PRs, checks the completed project, and coordinates the handoff. Every member, including Ahmet, submits their own updated fork URL in Canvas.
 
-Use [PROGRESS.md](PROGRESS.md) to track submitted work and review evidence. The deadline will be added when Ahmet confirms it.
+Use [PROGRESS.md](PROGRESS.md) to track submitted work and review evidence. Canvas lists October 2, 2026 at 11:59 PM for Part 1. See [current requirements](docs/CURRENT_REQUIREMENTS.md) for the personal-page and sample-page stages, individual submissions, and workflow differences to confirm.
 
 ## Personal working guides
 

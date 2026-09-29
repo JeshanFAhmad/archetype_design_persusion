@@ -5,6 +5,10 @@
 **Status:** Interview not yet recorded. The fields below are prompts, not decisions made by Jeshan Ahmad.  
 **Scope:** Innocent, Jester, Creator, Ruler, De Stijl, Constructivism, Grunge Design, New Wave.
 
+## Personal-brand interview
+
+Complete [my personal archetype page](../../members/jeshan_ahmad.md) separately from the research pages. Capture my values and goals, AI-recommended archetypes and reasoning, which option I agree with, my own reasons, visual direction, example wording, and persuasion applications. All choices remain unconfirmed until I answer.
+
 ## Shared intent for my contribution
 
 - Actual assignment requirements and AI-use policy: _to confirm_

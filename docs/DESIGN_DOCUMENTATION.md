@@ -2,7 +2,7 @@
 
 [Guide index](README.md) · [Contribution workflow](../CONTRIBUTING.md)
 
-This repository currently contains Markdown research pages. The workflow below helps explain design intent and the connection between research and a proposed website. It does not require building a new website or invent an additional graded deliverable. Use instructor requirements when they differ.
+This repository currently contains Markdown research pages. The workflow below helps explain design intent and the connection between research and a proposed website. It does not require building a new website. The instructor also asks for a personal archetype page, one sample per person, and then the completed guide; see [current requirements](CURRENT_REQUIREMENTS.md).
 
 ## 1. Capture the brief before drafting
 
@@ -41,16 +41,18 @@ Consider one alternative, explain why you did not choose it, and identify a usab
 Use the existing topic page as the starting point:
 
 - **Overview:** define the topic in your own words and establish its scope.
+- **When to use it:** identify suitable audiences, purposes, and situations.
+- **Historical context (design movements):** explain origins and how the style supports, develops, or challenges modernist ideas.
 - **Key characteristics:** explain recognizable qualities with evidence.
 - **Brand or website example:** link to a specific example and explain which visible details support your interpretation.
 - **Application to web design:** explain audience, intended action, and concrete content or visual decisions. Link to your personal brief if it adds useful rationale.
 - **Sources:** support factual claims and credit visual material.
 
-Preserve the assigned owner and navigation links. Replace the starter status only after the actual research and review support a new status. Do not change other members' pages as a side effect.
+Link back to the relevant topic-folder index as well as preserving the assigned owner and root navigation links. Replace the starter status only after the actual research and review support a new status. Do not change other members' pages as a side effect.
 
 ## 5. Document visual material responsibly
 
-Images are optional unless the instructor requires them. If you use one, record its creator, source URL, permission or license basis, and meaningful alternative text. Prefer material you created or are allowed to use. Keep reusable assets under a clearly named folder and use relative links.
+The instructor's guide expects relevant images and real-world examples. For each visual you include, record its creator, source URL, permission or license basis, and meaningful alternative text. Prefer material you created or are allowed to use. Keep reusable assets under a clearly named folder and use relative links.
 
 For a proposed website example, describe heading order, readable text, contrast checking, keyboard access, mobile layout, and alternatives to motion when relevant. Record whether each check was performed or is still planned. Do not claim accessibility compliance from a visual impression.
 

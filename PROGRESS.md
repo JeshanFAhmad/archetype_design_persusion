@@ -2,7 +2,7 @@
 
 [Project index](README.md) · [Work plan](WORK_PLAN.md) · [Contribution instructions](CONTRIBUTING.md)
 
-**Deadline:** To be confirmed by Ahmet.
+**Canvas Part 1 deadline:** October 2, 2026 at 11:59 PM. Each member submits their own updated fork URL. The linked instructor README has three stages; confirm which stages are included in this Part 1 deadline. [Current requirements](docs/CURRENT_REQUIREMENTS.md).
 
 This tracker records evidence of delivery. An unchecked box means completion has not been verified here; it does not prove someone has not started. The initial check found no pull requests in this group repository. Work in members' private/local copies is not visible here.
 
@@ -25,7 +25,7 @@ Team members work in their own forks. Ahmet uses a topic branch in this reposito
 
 ## Ahmet Elci
 
-Complete the 7 persuasion-method pages. As team leader, review incoming pull requests, verify the final index and links, and handle the final submission after the group work is ready.
+Complete the 7 persuasion-method pages. As team leader, review incoming pull requests, verify the final index and links, and coordinate the handoff after the required group work is ready. Submit your own fork URL; each other member submits theirs separately.
 
 - [ ] [Reciprocity](persuasion-methods/reciprocity.md) — content reviewed
 - [ ] [Scarcity](persuasion-methods/scarcity.md) — content reviewed
@@ -91,8 +91,45 @@ Complete Lover, Everyman, Magician, Caregiver, Minimalist Modernism, Mid-Century
 - [ ] All 31 topic pages have been reviewed.
 - [ ] Every member's contribution has a corresponding PR and visible author history.
 - [ ] All README links open the intended pages; images render and sources are credited.
-- [ ] The final submission follows the instructor's requirements and deadline.
+- [ ] The team has confirmed the scope of the Part 1 milestone with the instructor.
+- [ ] Every member has recorded their own Canvas submission receipt.
 
 ## Updates and blockers
 
 When reporting progress, include your name, pages completed, PR link, remaining pages, and any blocker. Report blockers early so the group can coordinate help or a reassignment. Only update checked items and status from actual reviewed changes or a clearly identified member report.
+
+## Personal-page and handoff milestones
+
+These are unverified until supported by a reviewed PR or the member's submission receipt.
+
+### Ahmet Elci
+
+- [ ] [Personal archetype page](members/ahmet_elci.md) completed and reviewed.
+- [ ] One complete sample topic page reviewed by the team.
+- [ ] Common page format agreed before remaining topics are drafted.
+- [ ] Fork synchronized with the group's reviewed main branch.
+- [ ] Own fork URL submitted to Canvas and receipt verified.
+
+### Timothy Bailey
+
+- [ ] [Personal archetype page](members/timothy_bailey.md) completed and reviewed.
+- [ ] One complete sample topic page reviewed by the team.
+- [ ] Common page format agreed before remaining topics are drafted.
+- [ ] Fork synchronized with the group's reviewed main branch.
+- [ ] Own fork URL submitted to Canvas and receipt verified.
+
+### Jeshan Ahmad
+
+- [ ] [Personal archetype page](members/jeshan_ahmad.md) completed and reviewed.
+- [ ] One complete sample topic page reviewed by the team.
+- [ ] Common page format agreed before remaining topics are drafted.
+- [ ] Fork synchronized with the group's reviewed main branch.
+- [ ] Own fork URL submitted to Canvas and receipt verified.
+
+### Avyay Kaushik
+
+- [ ] [Personal archetype page](members/avyay_kaushik.md) completed and reviewed.
+- [ ] One complete sample topic page reviewed by the team.
+- [ ] Common page format agreed before remaining topics are drafted.
+- [ ] Fork synchronized with the group's reviewed main branch.
+- [ ] Own fork URL submitted to Canvas and receipt verified.

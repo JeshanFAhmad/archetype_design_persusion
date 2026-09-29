@@ -20,6 +20,15 @@ These are questions to develop your own ideas, not prescribed answers. Choose a 
 | [Punk / Dadaist](../../design-movements/postmodernist/punk-dadaist.md) | Which aspects belong to Punk, which to Dada, and what connection can you support rather than treating them as identical? |
 | [Retro-Futurism](../../design-movements/postmodernist/retro-futurism.md) | Which era's imagined future are you referencing, and how would you make that choice clear to the audience? |
 
+## Required milestones for you
+
+Read [the current requirements](../CURRENT_REQUIREMENTS.md). The Canvas deadline is **October 2, 2026 at 11:59 PM**; Ahmet must confirm which of the linked README's stages are expected for Part 1.
+
+1. Complete [your personal archetype page](../../members/avyay_kaushik.md) after an AI interview about your values, audience, personality, and goals. This is separate from your assigned research topics. Record the AI's recommendation, your agreement or disagreement, visual direction, sample phrasing, and explained persuasion applications.
+2. Produce **one complete sample** from your assigned topics. Have the team review all four samples and agree on a common format before producing the remaining pages.
+3. Complete your remaining assigned topics and link each page to its topic index. Confirm issue tracking with Ahmet; the instructor requests one issue per task, while Issues were disabled at setup.
+4. After review and merge, synchronize your fork with the group main and submit **your own fork URL** to Canvas. Ahmet's submission does not cover your individual submission.
+
 ## Detailed workflow
 
 1. **Check the assignment.** Read the latest instructor brief, required format, due date, and AI-use rules. Put any uncertainty in your design brief. Team guidelines do not establish a grading rubric.
@@ -30,7 +39,7 @@ These are questions to develop your own ideas, not prescribed answers. Choose a 
 6. **Research one topic.** Identify the claims that need evidence, read sources, and record them in your [design brief](../design/avyay-kaushik.md). Verify any brand classification or historical statement.
 7. **Write and explain.** Create an outline, then complete the topic page. Include concrete design decisions and a rationale. Read it aloud or explain it back in your own words to catch gaps.
 8. **Document and repeat.** Complete a short topic decision record in your brief. Repeat the interview for the next topic; do not reuse an answer merely because two topics appear similar.
-9. **Check the contribution.** Preview Markdown, open links, credit any images, remove TODOs from completed pages, and check only your intended changes are included.
+9. **Check the contribution.** Include when-to-use guidance, relevant images and credits, and historical context for design styles, following the instructor's page checklist. Preview Markdown, open links, credit any images, remove TODOs from completed pages, and check only your intended changes are included.
 10. **Open a PR.** Use [the contribution instructions](../../CONTRIBUTING.md). Base: `ahmet360/archetype_design_persusion`, branch: `main`. Head: your own fork and topic branch. Explain the pages completed, sources checked, and remaining questions. Post the PR link in the group chat and address review comments on the same branch.
 
 ## What to send Ahmet
@@ -61,8 +70,19 @@ have read something you cannot access.
 Your first job is to understand my ideas and intent. Do not immediately
 write all my pages, choose a brand for me, or generate a finished project.
 
+Work in stages: personal archetype interview and members/avyay_kaushik.md;
+one sample topic page and team agreement on format; then the remaining
+assigned pages. For my personal brand, ask about my values, audience,
+strengths, voice, and desired impression. Suggest candidate archetypes with
+reasons, ask whether I agree, and wait for my choice. Never invent my
+personality or choose an archetype on my behalf. Record visual suggestions,
+sample phrasing, and explained persuasion applications only after my input.
+Read docs/CURRENT_REQUIREMENTS.md for individual Canvas submission and
+workflow differences that need Ahmet's coordination.
+
 Start with at most THREE short questions, then STOP and wait:
-1. Which assigned topic should we work on first, and how do I understand it?
+1. Are we starting my personal archetype page or a selected topic sample,
+   and what do I already understand or want to express?
 2. What audience and brand or website context do I want to explore, and
    what should a visitor think, feel, or do?
 3. What instructor requirements, constraints, existing ideas, or examples
@@ -71,6 +91,8 @@ Start with at most THREE short questions, then STOP and wait:
 After I answer, ask focused follow-up questions in small batches. Use the
 topic-specific questions in my guide. Ask why I prefer an idea, what
 alternative I considered, and how I would recognize a successful result.
+Before drafting the remaining pages, check whether the team has approved
+our sample format. If not, help prepare the sample for review and stop.
 If I am unsure, explain the concept simply and offer two or three
 possibilities, clearly as options. Do not record an option as my decision
 until I choose it.

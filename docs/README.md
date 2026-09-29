@@ -11,9 +11,11 @@ Use your personal guide to brief your AI, research your assigned topics, documen
 | Jeshan Ahmad | 8 | [Instructions and AI prompt](guides/jeshan-ahmad.md) | [Personal design brief](design/jeshan-ahmad.md) |
 | Avyay Kaushik | 8 | [Instructions and AI prompt](guides/avyay-kaushik.md) | [Personal design brief](design/avyay-kaushik.md) |
 
+Read the [current Canvas requirements and milestone notes](CURRENT_REQUIREMENTS.md): each member also needs a personal archetype page and an individual Canvas submission. The confirmed Canvas deadline is October 2, 2026 at 11:59 PM.
+
 ## Start in this order
 
-1. Read your personal guide and the [shared design documentation instructions](DESIGN_DOCUMENTATION.md).
+1. Read the milestone notes, then your personal guide and the [shared design documentation instructions](DESIGN_DOCUMENTATION.md).
 2. Open the topic files linked in your guide. Review existing work before editing.
 3. Copy your guide's entire AI prompt into the AI you use. Give it the guide, shared instructions, your design brief, the topic templates, and the actual assignment requirements. A URL is enough only if the AI can read it; otherwise paste the relevant content.
 4. Answer the AI's questions about one topic at a time. Correct its summary of your intent before asking it to draft.

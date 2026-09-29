@@ -11,7 +11,9 @@ IS117 group project repository. The folder and file layout follows the team's Ca
 - **Jeshan Ahmad** — Member 2
 - **Avyay Kaushik** — Member 3
 
-See the [work plan](WORK_PLAN.md) for each person's assigned topics.
+See the [work plan](WORK_PLAN.md) for each person's assigned topics and the [member pages](members/README.md) for personal archetype interviews. Archetype selections are awaiting each member's choice.
+
+**Canvas Part 1 due:** October 2, 2026 at 11:59 PM. Each member submits their own updated fork URL. See [current requirements and milestone scope](docs/CURRENT_REQUIREMENTS.md).
 
 ## Contribute
 
