@@ -9,9 +9,26 @@ This tracker records evidence of delivery. An unchecked box means completion has
 | Owner | Topic pages | Acknowledgement | Pull request | Review status |
 | --- | --- | --- | --- | --- |
 | [Ahmet Elci](#ahmet-elci) | 7 | Leader role confirmed | Not linked yet | Awaiting submission |
-| [Timothy Bailey](#timothy-bailey) | 8 | Awaiting reply | Not linked yet | Awaiting submission |
+| [Timothy Bailey](#timothy-bailey) | 8 | Supported the plan in the group chat, September 29 at 2:18 AM ET | Not linked yet | Awaiting submission |
 | [Jeshan Ahmad](#jeshan-ahmad) | 8 | Awaiting reply | Not linked yet | Awaiting submission |
 | [Avyay Kaushik](#avyay-kaushik) | 8 | Awaiting reply | Not linked yet | Awaiting submission |
+
+## Latest verified check
+
+**September 29, 2026 at 6:38 PM Eastern.** The repository remains public. All 31 topic files on the default branch are starter templates with TODO content, and all four personal archetype pages still await the member's interview and decisions. A repository-wide search across open and closed pull requests found no PRs. No contribution has verified submitted, reviewed, or merged status.
+
+| Member | Topic pages still templates on main | Personal page | Sample-page review | Next action |
+| --- | --- | --- | --- | --- |
+| Ahmet Elci | All 7 assigned persuasion pages | Template | Unverified | Complete personal interview and one sample; confirm Part 1 scope and workflow questions with the instructor; coordinate sample review. |
+| Timothy Bailey | All 8 assigned pages | Template | Unverified | Complete personal interview and one sample, then share fork/PR link or a blocker. |
+| Jeshan Ahmad | All 8 assigned pages | Template | Unverified | Acknowledge allocation, complete personal interview and one sample, then share fork/PR link or a blocker. |
+| Avyay Kaushik | All 8 assigned pages | Template | Unverified | Acknowledge allocation, complete personal interview and one sample, then share fork/PR link or a blocker. |
+
+**Attributed member report:** Timothy replied to the work-allocation message at 2:18 AM Eastern on September 29, saying “Awesome plan” and suggesting the group move coordination to Discord. This acknowledges the plan; it does not establish completed pages or a submitted PR. The checked Google Messages conversation contains no subsequent member progress report, PR link, or current work blocker. Discord was not checked during this follow-up, so updates there are unverified.
+
+**Reminder status:** No reminder sent during this check because the existing allocation message already asks for acknowledgements, fork/PR links, and blockers within the preceding 24 hours.
+
+**Open requirements:** The October 2 at 11:59 PM Eastern deadline is confirmed for Canvas Part 1, but its coverage of the instructor README's three stages remains unconfirmed. The allocation, folder conventions, and issue-tracking differences described in [current requirements](docs/CURRENT_REQUIREMENTS.md) also remain unresolved. Each member must synchronize and submit their own fork; no individual submission receipt has been verified here.
 
 ## What counts as ready for review
 
