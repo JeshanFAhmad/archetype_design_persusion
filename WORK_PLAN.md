@@ -1,6 +1,6 @@
 # Work plan
 
-[Back to project index](README.md) · [Progress checklist](PROGRESS.md)
+[Back to project index](README.md) · [Progress checklist](PROGRESS.md) · [Personal prompting and design guides](docs/README.md)
 
 Ahmet Elci is the team leader. The named allocation below retains the topic split from Tim's Canvas setup message dated September 28, 2026.
 
@@ -26,3 +26,7 @@ All 31 topic pages begin as templates. Their presence does not mean the research
 Each person is responsible for the pages listed above. Reply in the group chat to acknowledge the assignment, share your GitHub username/fork, and post your PR link when ready. Raise blockers as soon as they appear. Ahmet reviews PRs, checks the completed project, and handles the final submission.
 
 Use [PROGRESS.md](PROGRESS.md) to track submitted work and review evidence. The deadline will be added when Ahmet confirms it.
+
+## Personal working guides
+
+Each member has a [personal guide with an interview prompt, topic questions, and design brief](docs/README.md). Start with the interview to establish your own ideas, then research and draft one topic at a time. These guides support the assigned pages; they do not replace the instructor's requirements or establish that work is complete.

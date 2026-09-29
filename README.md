@@ -17,6 +17,8 @@ See the [work plan](WORK_PLAN.md) for each person's assigned topics.
 
 This repository is public. Team members **fork it to their own GitHub accounts**, work on a branch in their fork, push there, and open a pull request into **`ahmet360/archetype_design_persusion` → `main`**. Contributors are not added as collaborators on the main repository.
 
+- [Personal AI prompts, detailed instructions, and design documentation](docs/README.md)
+- [Progress checklist](PROGRESS.md)
 - [Fork and pull-request instructions](CONTRIBUTING.md)
 - [Work allocation from the setup message](WORK_PLAN.md)
 
