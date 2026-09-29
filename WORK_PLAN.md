@@ -1,6 +1,6 @@
 # Work plan
 
-[Back to project index](README.md)
+[Back to project index](README.md) · [Progress checklist](PROGRESS.md)
 
 Ahmet Elci is the team leader. The named allocation below retains the topic split from Tim's Canvas setup message dated September 28, 2026.
 
@@ -20,3 +20,9 @@ Ahmet Elci is the team leader. The named allocation below retains the topic spli
 5. Ask for review and address feedback before Ahmet merges the pull request into `main`.
 
 All 31 topic pages begin as templates. Their presence does not mean the research is complete.
+
+## Completion and coordination
+
+Each person is responsible for the pages listed above. Reply in the group chat to acknowledge the assignment, share your GitHub username/fork, and post your PR link when ready. Raise blockers as soon as they appear. Ahmet reviews PRs, checks the completed project, and handles the final submission.
+
+Use [PROGRESS.md](PROGRESS.md) to track submitted work and review evidence. The deadline will be added when Ahmet confirms it.
