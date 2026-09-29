@@ -3,7 +3,7 @@
 [Back to project index](../README.md) · [Contribution guide](../CONTRIBUTING.md)
 
 - Topic: Persuasion method
-- Work allocation: Team Leader
+- Assigned to: Ahmet Elci (Team Leader)
 - Status: Starter template — research and examples to be completed by the assigned contributor.
 
 ## Overview

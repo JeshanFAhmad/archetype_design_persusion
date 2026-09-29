@@ -4,6 +4,15 @@ IS117 group project repository. The folder and file layout follows the team's Ca
 
 **This is the project scaffold.** Topic pages are starter templates for each team member to research and complete through pull requests.
 
+## Team
+
+- **Ahmet Elci** — Team Leader
+- **Timothy Bailey (Tim)** — Member 1
+- **Jeshan Ahmad** — Member 2
+- **Avyay Kaushik** — Member 3
+
+See the [work plan](WORK_PLAN.md) for each person's assigned topics.
+
 ## Contribute
 
 This repository is public. Team members **fork it to their own GitHub accounts**, work on a branch in their fork, push there, and open a pull request into **`ahmet360/archetype_design_persusion` → `main`**. Contributors are not added as collaborators on the main repository.

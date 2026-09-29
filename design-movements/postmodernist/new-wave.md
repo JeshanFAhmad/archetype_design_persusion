@@ -3,7 +3,7 @@
 [Back to project index](../../README.md) · [Contribution guide](../../CONTRIBUTING.md)
 
 - Topic: Postmodernist design movement
-- Work allocation: Member 2
+- Assigned to: Jeshan Ahmad (Member 2)
 - Status: Starter template — research and examples to be completed by the assigned contributor.
 
 ## Overview

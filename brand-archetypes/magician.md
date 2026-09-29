@@ -3,7 +3,7 @@
 [Back to project index](../README.md) · [Contribution guide](../CONTRIBUTING.md)
 
 - Topic: Brand archetype
-- Work allocation: Member 3
+- Assigned to: Avyay Kaushik (Member 3)
 - Status: Starter template — research and examples to be completed by the assigned contributor.
 
 ## Overview

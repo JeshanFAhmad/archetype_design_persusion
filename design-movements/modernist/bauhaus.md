@@ -3,7 +3,7 @@
 [Back to project index](../../README.md) · [Contribution guide](../../CONTRIBUTING.md)
 
 - Topic: Modernist design movement
-- Work allocation: Member 1
+- Assigned to: Timothy Bailey (Member 1)
 - Status: Starter template — research and examples to be completed by the assigned contributor.
 
 ## Overview
