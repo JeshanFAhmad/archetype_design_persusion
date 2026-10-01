@@ -10,7 +10,7 @@ My goal is for my design projects to be seen by my fellow students and teachers.
 
 ## My chosen archetype
 
-AI recommendation: Creator; Jester is another option. Creator appears to be the better match since I mentioned that I like creating things. Jester may be another good match since I would like my creations to be enjoyable. And as much as I'd like to choose Jester, Creativity seems like the better pick, so I will choose that.
+AI recommendation: Creator; Jester is another option. Creator appears to be the better match since I mentioned that I like creating things. Jester may be another good match since I would like my creations to be enjoyable. And as much as I'd like to choose Jester, Creator seems like the better pick, so I will choose that.
 
 ## Why the AI suggested it and whether I agree
 
