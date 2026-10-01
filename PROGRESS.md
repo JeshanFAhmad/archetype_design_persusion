@@ -40,11 +40,15 @@ GitHub Issues were enabled October 1. Each contributor should create or link rea
 
 The instructor's main at `213f4308518789688bc2861744b9c1de45a179c3` is included by this synchronization merge. Current assignment, templates, optional tutorials, and original tutorial assets are preserved. Team research files and member writing are retained at their existing paths.
 
-The connected account has no push permission on the forks owned by `Timothy-Bailey4-10`, `JeshanFAhmad`, or `Typical728`. Their owners must sync from the group main after this update; no teammate fork is marked synchronized here. Follow [CONTRIBUTING.md](CONTRIBUTING.md#sync-your-fork-after-group-merges).
+The October 1 evening check verified that Timothy's fork main exactly matched group main at `27428408c0e0d07bd4bab8741ca7d51f13eddd4f`, including the merged research and instructor update. This records synchronization before this tracker-only update; it is not coursework completion or a Canvas receipt.
+
+Jeshan's fork still diverged, with two fork-only commits that must be preserved or deliberately reconciled. Avyay's fork still lacked the group updates. The connected account has no push permission on these teammate forks, so their owners must sync from the group main. Follow [CONTRIBUTING.md](CONTRIBUTING.md#sync-your-fork-after-group-merges).
 
 ## Member reports and communication
 
 In the SMS conversation “Is117 group project,” Jeshan reported his Innocent submission September 30 and asked that patch 2 be used; Avyay reported his submission that night. Tim reported additional work planned October 1 and asked for named contribution files, the instructor update, and a merge notice. The newer PR evidence above supersedes older reports that only Explorer existed or Jeshan's personal page was still unsubmitted.
+
+Ahmet posted the revised design and About-page requirements in the group on October 1 at 5:26 PM Eastern. Timothy acknowledged them at 5:28 PM. No new PR link or blocker appeared after that acknowledgement in this check.
 
 Last automated reminder verified sent: **September 30 at 6:04 PM Eastern**. The October 1 SMS read and merge work did not send any new messages. Ahmet requested reply drafts to send himself.
 
@@ -52,4 +56,4 @@ Last automated reminder verified sent: **September 30 at 6:04 PM Eastern**. The 
 
 Previously verified Canvas Part 1 deadline: **October 2, 2026, 11:59 PM Eastern**. The exact scope of Part 1 is not established by a repository label alone. The latest instructor assignment says the lead submits; earlier Canvas text said each member submits their updated fork. Confirm the current route in Canvas before submission.
 
-No final Canvas receipt, teammate fork sync, or final completion is asserted. Ahmet's September 30 statement that his manager role is handled is a role/status report, not a submission receipt.
+Timothy's fork synchronization is verified only at the commit recorded above. No final Canvas receipt or final coursework completion is asserted. Ahmet's September 30 statement that his manager role is handled is a role/status report, not a submission receipt.
