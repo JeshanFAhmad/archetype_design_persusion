@@ -12,15 +12,16 @@ The lead maintains the section indexes and About-team index. Coordinate index up
 
 ## 2. Work on a branch
 
-After cloning the team repository, replace example names and number:
+Clone your own fork and configure the group repository as upstream using [CONTRIBUTING.md](../CONTRIBUTING.md). Save local work safely. Replace the example issue number and branch name below with your actual values; do not invent an issue.
 
 ```bash
-git switch main
-git pull --ff-only
-git switch -c issue-12-explorer
+git fetch upstream
+git switch -c issue-12-explorer upstream/main
 # Create or edit your assigned page and images.
 git status
-git add archetypes/explorer.md assets/heroes/explorer/
+git add brand-archetypes/explorer.md
+# Only after creating your design assets:
+git add assets/heroes/explorer/
 git commit -m "Add Explorer package #12"
 git push -u origin issue-12-explorer
 ```
@@ -29,7 +30,7 @@ Stage only your issue's files. Never push directly to main or force-push over te
 
 ## 3. Open a pull request
 
-Target main. Explain the change, link the page, include `Closes #12`, and request a teammate's review. Address comments with commits on the same branch.
+Target ahmet360/archetype_design_persusion → main from your own fork. No collaborator invitations are required. Explain the change, link the page, include `Closes #12`, and request a teammate's review. Address comments with commits on the same branch.
 
 ## Review before merging
 
@@ -48,10 +49,10 @@ Each contribution needs another teammate's review. The lead merges reviewed, rev
 
 ```text
 members/first_last.md
-archetypes/explorer.md
-persuasion/reciprocity.md
-modernism/style-name.md
-postmodernism/style-name.md
+brand-archetypes/explorer.md
+persuasion-methods/reciprocity.md
+design-movements/modernist/style-name.md
+design-movements/postmodernist/style-name.md
 assets/heroes/explorer/          # final design images
 assets/references/style-name/    # historical images you may reproduce
 ```

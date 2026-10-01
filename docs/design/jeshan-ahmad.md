@@ -1,15 +1,15 @@
 # Jeshan Ahmad: design brief and decision record
 
-> **October 1 update — optional working aid.** The [current assignment](../../assignment.md) and [team requirements](../CURRENT_REQUIREMENTS.md) supersede older required-milestone language below. Use two original designs per archetype and a simple About page with real issue links and reflection. Personal-archetype interviews and former sample/pilot steps are optional. Issues are enabled. Ahmet's role is management; older seven-page authorship instructions are superseded.
+> **Optional working aid, updated October 1.** Follow the current assignment and team requirements linked below. This guide helps develop and document your own ideas; it adds no extra grading requirements.
 
 [Your prompting guide](../guides/jeshan-ahmad.md) · [Documentation instructions](../DESIGN_DOCUMENTATION.md) · [All guides](../README.md)
 
 **Status:** Interview not yet recorded. The fields below are prompts, not decisions made by Jeshan Ahmad.  
 **Scope:** Innocent, Jester, Creator, Ruler, De Stijl, Constructivism, Grunge Design, New Wave.
 
-## Personal-brand interview
+## About-page contribution record
 
-Complete [my personal archetype page](../../members/jeshan_ahmad.md) separately from the research pages. Capture my values and goals, AI-recommended archetypes and reasoning, which option I agree with, my own reasons, visual direction, example wording, and persuasion applications. All choices remain unconfirmed until I answer.
+Update [my About page](../../members/jeshan_ahmad.md) with my introduction, real issue links and contribution statuses, learning reflection, and credits. Preserve any personal-brand writing I choose to keep. An AI interview may help develop ideas but is not a required assignment stage.
 
 ## Shared intent for my contribution
 
