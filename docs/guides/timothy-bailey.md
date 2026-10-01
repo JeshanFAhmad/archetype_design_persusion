@@ -1,5 +1,7 @@
 # Timothy Bailey: instructions and AI prompting guide
 
+> **October 1 update — optional working aid.** The [current assignment](../../assignment.md) and [team requirements](../CURRENT_REQUIREMENTS.md) supersede older required-milestone language below. Use two original designs per archetype and a simple About page with real issue links and reflection. Personal-archetype interviews and former sample/pilot steps are optional. Issues are enabled. Ahmet's role is management; older seven-page authorship instructions are superseded.
+
 [All guides](../README.md) · [Your design brief](../design/timothy-bailey.md) · [Work plan](../../WORK_PLAN.md)
 
 **Role:** Member 1  

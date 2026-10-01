@@ -1,5 +1,7 @@
 # Jeshan Ahmad: design brief and decision record
 
+> **October 1 update — optional working aid.** The [current assignment](../../assignment.md) and [team requirements](../CURRENT_REQUIREMENTS.md) supersede older required-milestone language below. Use two original designs per archetype and a simple About page with real issue links and reflection. Personal-archetype interviews and former sample/pilot steps are optional. Issues are enabled. Ahmet's role is management; older seven-page authorship instructions are superseded.
+
 [Your prompting guide](../guides/jeshan-ahmad.md) · [Documentation instructions](../DESIGN_DOCUMENTATION.md) · [All guides](../README.md)
 
 **Status:** Interview not yet recorded. The fields below are prompts, not decisions made by Jeshan Ahmad.  

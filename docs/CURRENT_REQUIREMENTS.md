@@ -1,37 +1,33 @@
-# Current assignment requirements and team workflow
+# Current requirements and team workflow
 
-[All guides](README.md) · [Work plan](../WORK_PLAN.md) · [Progress](../PROGRESS.md)
+[Guides](README.md) · [Assignment](../assignment.md) · [Work plan](../WORK_PLAN.md) · [Progress](../PROGRESS.md)
 
-Checked September 29, 2026 against the [Canvas Part 1 assignment](https://njit.instructure.com/courses/70711/assignments/761949) and the [instructor's current README](https://github.com/kaw393939/archetype_design_persusion/blob/main/README.md).
+Updated October 1, 2026 from instructor commit [213f430](https://github.com/kaw393939/archetype_design_persusion/commit/213f4308518789688bc2861744b9c1de45a179c3). The synchronized [assignment](../assignment.md) is the instructor's source of truth; [templates](../reference/page-templates.md) show the required structure.
 
-## Confirmed Canvas submission
+## Current deliverables
 
-- Assignment: **Part 1 Of Plain white t-shirt building the library and practicing collab**.
-- Due: **Friday, October 2, 2026, 11:59 PM**, as displayed in Canvas.
-- Submission type: website URL.
-- **Each member submits their own repository fork, updated to match the leader.** Ahmet's group repository is already his fork of the instructor's repository; he submits that URL. Other members submit their own synchronized forks.
-- A teammate's submission does not replace your own Canvas submission.
+- 12 archetype pages, each with two original static hero designs: one researched modernist style and one researched postmodernist style. Third design optional.
+- Each design has an image, headline, clear CTA, named archetype/style/persuasion principle, and two or three explanatory sentences with a linked style source. Keep the same brand or offer across its two examples. Label generated images.
+- Seven persuasion pages, each with a specific explained application.
+- Six modernist and six postmodernist style pages. Each needs two historical works with creator, title, date, institution, direct source, credit/reuse terms, and brief explanation. Use a viewing link if reuse permission is unclear.
+- One About page per student: full name and introduction, real issue links with contribution statuses, learning reflection, and appropriate credits.
 
-The linked instructor README describes three stages. Canvas calls this submission Part 1 but does not explicitly map the deadline to all three stages. Ahmet should confirm how much of the guide is expected on October 2. Begin the personal page and sample-page review now; do not claim an unverified stage deadline.
+There are 31 topic pages, 24 required original designs, and four About pages in the generic team assignment. Four heroes per archetype, a compulsory personal AI archetype interview, rejected-draft evidence, and a prescribed sample/pilot sequence are no longer listed as requirements. Tutorials are optional help.
 
-## Staged deliverables from the instructor's README
+## Team-specific agreements
 
-1. **Discover your personal archetype.** Every member creates a personal page under `members/first_last.md`. Interview your AI and challenge its recommendation. Record your chosen archetype, why the AI suggested it, whether you agree, imagery, colors, fonts, sample wording, and applications of Cialdini's persuasion principles with explanations. An archetype is not chosen for you by these templates.
-2. **Create one complete sample topic page per person.** The README says to have this ready for the next class. Review the four samples together and agree on a reusable format before filling the remaining topic pages. The next-class date is not specified by this document.
-3. **Complete the full reference guide.** Finish all 31 pages in the agreed format and maintain the topic indexes. Each design-style page should address historical context and its relationship to modernist ideas.
+Ahmet reports that the professor assigned him group management: coordination, reviews, merges, and conflict management. He considers that role handled. Do not revive the superseded seven-persuasion-page authorship assignment. The teammate allocation remains in [WORK_PLAN.md](../WORK_PLAN.md); the seven persuasion pages need an agreed replacement owner.
 
-Every topic page should explain the definition, when to use it, practical application, real examples and relevant images, sources and image credits, and navigation back to its topic index. The team should verify facts and be able to explain the content.
+Keep the repository public and use forks plus PRs without collaborator invitations, per Ahmet's explicit instruction. The instructor's generic collaborator instructions do not change that agreement.
 
-## Workflow differences to resolve explicitly
+Existing topic paths remain canonical. Instructor-style section indexes link to those same files, avoiding duplicated topic pages. Issues are now enabled. Record actual owners, reviewers, files, and completion checklists; contributions merged before Issues were enabled must not be represented as having earlier issues.
 
-Ahmet has directed this team to use **public forks and PRs without collaborator invitations**. Keep that workflow even though the generic instructor README mentions collaborators.
+## Canvas deadline and submission discrepancy
 
-The instructor README also describes one category owner per person, category folders named `archetypes/`, `persuasion/`, `modernism/`, and `postmodernism/`, and issue-based planning. The team's current named assignments and paths follow Tim's earlier setup message and Ahmet's approved mixed-topic allocation. Do not silently reassign topics, rename folders, or copy a second set of pages. Ahmet should confirm that allocation and path convention with the instructor.
+The last verified Canvas reading listed **Part 1 Of Plain white t-shirt building the library and practicing collab**, website URL submission, due **October 2, 2026 at 11:59 PM Eastern**, and each member's synchronized fork URL. Canvas was not re-read as part of this sync.
 
-The group repository currently uses [PROGRESS.md](../PROGRESS.md); Issues were disabled at setup. That checklist does not establish that the instructor's issue requirement has been waived. Resolve issue tracking before starting the required issue → branch → PR workflow. Each task should identify one owner, exact files, and a completion checklist. Do not use invented issue numbers.
+The October 1 instructor assignment instead says the lead submits the repository link. Confirm the current Canvas/instructor submission route and the exact Part 1 scope before submitting. Do not assume every later course project or optional tutorial is due on October 2. Keep reviewed work, merge, fork synchronization, and Canvas receipt as separate statuses.
 
-## Final handoff for every member
+## Handoff
 
-After reviewed work is merged, save your local changes safely and synchronize your fork from the group `main`. Review the resulting files and history. Submit **your fork's URL** through Canvas and verify the receipt yourself. Keep group completion, PR merge, fork synchronization, and individual Canvas submission as separate checklist items.
-
-Ahmet coordinates reviews, keeps the root member index current with each confirmed archetype, and verifies the overall handoff. He does not submit on everyone else's behalf.
+Use [CONTRIBUTING.md](../CONTRIBUTING.md) to synchronize forks after group merges. Preserve local work; never discard commits just to make branches match. Member About pages are under [members](../members/README.md). No individual Canvas receipt is confirmed by this documentation update.

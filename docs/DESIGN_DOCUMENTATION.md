@@ -1,5 +1,7 @@
 # How to document your design decisions
 
+> **October 1 update — optional working aid.** The [current assignment](../assignment.md) and [team requirements](CURRENT_REQUIREMENTS.md) supersede older required-milestone language below. Use two original designs per archetype and a simple About page with real issue links and reflection. Personal-archetype interviews and former sample/pilot steps are optional. Issues are enabled. Ahmet's role is management; older seven-page authorship instructions are superseded.
+
 [Guide index](README.md) · [Contribution workflow](../CONTRIBUTING.md)
 
 This repository currently contains Markdown research pages. The workflow below helps explain design intent and the connection between research and a proposed website. It does not require building a new website. The instructor also asks for a personal archetype page, one sample per person, and then the completed guide; see [current requirements](CURRENT_REQUIREMENTS.md).
