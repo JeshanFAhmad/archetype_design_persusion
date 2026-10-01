@@ -2,7 +2,7 @@
 
 [Project index](../README.md) · [Guides](../docs/README.md)
 
-Topic pages remain research templates until their owners complete them and the team reviews the work.
+See [PROGRESS.md](../PROGRESS.md) for merged drafts and remaining requirements. A linked page is not proof of final completion.
 
 | Topic | Owner |
 | --- | --- |

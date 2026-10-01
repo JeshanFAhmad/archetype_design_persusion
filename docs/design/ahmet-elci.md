@@ -1,70 +1,31 @@
-# Ahmet Elci: design brief and decision record
+# Ahmet Elci: management decision record
 
-[Your prompting guide](../guides/ahmet-elci.md) · [Documentation instructions](../DESIGN_DOCUMENTATION.md) · [All guides](../README.md)
+[Management guide](../guides/ahmet-elci.md) · [Progress](../../PROGRESS.md) · [Work plan](../../WORK_PLAN.md)
 
-**Status:** Interview not yet recorded. The fields below are prompts, not decisions made by Ahmet Elci.  
-**Scope:** Reciprocity, Scarcity, Authority, Consistency, Liking, Social Proof, Unity.
+This optional record supports Ahmet's manager role. It does not assign personal topic-writing work or claim a Canvas submission.
 
-## Personal-brand interview
+## Decisions and evidence
 
-Complete [my personal archetype page](../../members/ahmet_elci.md) separately from the research pages. Capture my values and goals, AI-recommended archetypes and reasoning, which option I agree with, my own reasons, visual direction, example wording, and persuasion applications. All choices remain unconfirmed until I answer.
+| Decision | Evidence to link | Status |
+| --- | --- | --- |
+| Topic owner and reviewer | Actual issue and member agreement | Record when agreed |
+| PR review outcome | PR, reviewed head commit, concrete findings | Separate agent review from student peer review |
+| Conflict resolution | Files affected and preserved contributions | Record actual resolution |
+| Merge | PR and merge commit | Record after verified merge |
+| Fork synchronization | Branch comparison or owner report | Do not infer from merge |
+| Submission route and milestone scope | Current Canvas/instructor instruction | Confirm before handoff |
 
-## Shared intent for my contribution
+## Review notes
 
-- Actual assignment requirements and AI-use policy: _to confirm_
-- Intended audience and their main task: _to decide_
-- Brand or website context (real or hypothetical): _to decide_
-- Desired feeling, message, and visitor action: _to decide_
-- Existing ideas or references I want to preserve: _to supply_
-- Constraints and deadline: _to confirm_
-- Confirmed by me on: _not yet confirmed_
+- Topic or PR:
+- Contributor's intended result:
+- Confirmed strengths:
+- Specific missing requirements or source corrections:
+- Agreed next action and owner:
+- Review evidence and date:
 
-## Per-topic records
+## About-page record
 
-Copy the record below once for each assigned topic as you work. A short, specific rationale is more useful than a long generic description. Link to the corresponding topic file.
+The existing [member file](../../members/ahmet_elci.md) may record actual management issue links, contributions, learning, and credits if needed for the confirmed handoff. Do not invent reflection or receipts. Ahmet has reported his manager role handled.
 
-### Topic: _choose one_
-
-- Page path:
-- My explanation in my own words:
-- Intended audience and response:
-- Example and why I chose it:
-- Confirmed choices:
-- Alternatives considered and reason for my choice:
-- Open questions:
-
-| Design decision | Choice | Rationale | Confirmed, proposed, or open |
-| --- | --- | --- | --- |
-| Message and action | | | Open |
-| Layout and hierarchy | | | Open |
-| Typography | | | Open |
-| Color and contrast | | | Open |
-| Imagery and tone | | | Open |
-| Mobile and interaction behavior, if relevant | | | Open |
-
-#### Sources actually consulted
-
-| Title and author/organization | Direct URL | Claim supported | Date actually accessed |
-| --- | --- | --- | --- |
-| _Add a source after reading it_ | | | |
-
-#### Review evidence
-
-- Checks actually performed:
-- Checks still planned:
-- Image attribution/permission and alternative text, if used:
-- AI assistance/disclosure required by the instructor, if applicable:
-- PR URL and review outcome:
-- My confirmation of the intent summary: _pending_
-
-## Topic coverage
-
-- [ ] [Reciprocity](../../persuasion-methods/reciprocity.md) — interview and decision record completed
-- [ ] [Scarcity](../../persuasion-methods/scarcity.md) — interview and decision record completed
-- [ ] [Authority](../../persuasion-methods/authority.md) — interview and decision record completed
-- [ ] [Consistency](../../persuasion-methods/consistency.md) — interview and decision record completed
-- [ ] [Liking](../../persuasion-methods/liking.md) — interview and decision record completed
-- [ ] [Social Proof](../../persuasion-methods/social-proof.md) — interview and decision record completed
-- [ ] [Unity](../../persuasion-methods/unity.md) — interview and decision record completed
-
-These checkboxes record design documentation only. Track page submission, review, and merge separately in [PROGRESS.md](../../PROGRESS.md).
+The seven persuasion pages still need an agreed owner; they are not an automatic authorship checklist for Ahmet.

@@ -1,8 +1,10 @@
 # How to document your design decisions
 
+> **Optional working aid, updated October 1.** Follow the current assignment and team requirements linked below. This guide helps develop and document your own ideas; it adds no extra grading requirements.
+
 [Guide index](README.md) · [Contribution workflow](../CONTRIBUTING.md)
 
-This repository currently contains Markdown research pages. The workflow below helps explain design intent and the connection between research and a proposed website. It does not require building a new website. The instructor also asks for a personal archetype page, one sample per person, and then the completed guide; see [current requirements](CURRENT_REQUIREMENTS.md).
+This repository currently contains Markdown research pages. The workflow below helps explain design intent and the connection between research and a proposed website. It does not require building a new website. The current assignment requires two original static designs per archetype, documented historical examples, and About contribution records; see [current requirements](CURRENT_REQUIREMENTS.md). Personal-brand exploration is optional.
 
 ## 1. Capture the brief before drafting
 
@@ -38,15 +40,11 @@ Consider one alternative, explain why you did not choose it, and identify a usab
 
 ## 4. Keep the research page consistent
 
-Use the existing topic page as the starting point:
+Preserve useful existing research and organize it with the current [four-section template](../reference/page-templates.md): what it is, how to recognize/use it, examples, and sources.
 
-- **Overview:** define the topic in your own words and establish its scope.
-- **When to use it:** identify suitable audiences, purposes, and situations.
-- **Historical context (design movements):** explain origins and how the style supports, develops, or challenges modernist ideas.
-- **Key characteristics:** explain recognizable qualities with evidence.
-- **Brand or website example:** link to a specific example and explain which visible details support your interpretation.
-- **Application to web design:** explain audience, intended action, and concrete content or visual decisions. Link to your personal brief if it adds useful rationale.
-- **Sources:** support factual claims and credit visual material.
+- Archetype: two original designs, one modernist and one postmodernist, with image, headline, CTA, named style/principle, and brief explanation.
+- Design style: two historical works with creator, title, date, institution, source/viewing link, credit/reuse information, and explanation.
+- Persuasion: a concrete application with an explanation of the mechanism.
 
 Link back to the relevant topic-folder index as well as preserving the assigned owner and root navigation links. Replace the starter status only after the actual research and review support a new status. Do not change other members' pages as a side effect.
 

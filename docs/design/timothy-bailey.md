@@ -1,13 +1,15 @@
 # Timothy Bailey: design brief and decision record
 
+> **Optional working aid, updated October 1.** Follow the current assignment and team requirements linked below. This guide helps develop and document your own ideas; it adds no extra grading requirements.
+
 [Your prompting guide](../guides/timothy-bailey.md) · [Documentation instructions](../DESIGN_DOCUMENTATION.md) · [All guides](../README.md)
 
 **Status:** Interview not yet recorded. The fields below are prompts, not decisions made by Timothy Bailey.  
 **Scope:** Explorer, Hero, Outlaw, Sage, Bauhaus, Swiss Modernism, Pop Art, Memphis Design.
 
-## Personal-brand interview
+## About-page contribution record
 
-Complete [my personal archetype page](../../members/timothy_bailey.md) separately from the research pages. Capture my values and goals, AI-recommended archetypes and reasoning, which option I agree with, my own reasons, visual direction, example wording, and persuasion applications. All choices remain unconfirmed until I answer.
+Update [my About page](../../members/timothy_bailey.md) with my introduction, real issue links and contribution statuses, learning reflection, and credits. Preserve any personal-brand writing I choose to keep. An AI interview may help develop ideas but is not a required assignment stage.
 
 ## Shared intent for my contribution
 

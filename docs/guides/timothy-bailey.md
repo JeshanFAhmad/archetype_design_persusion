@@ -1,5 +1,7 @@
 # Timothy Bailey: instructions and AI prompting guide
 
+> **Optional working aid, updated October 1.** Follow the current assignment and team requirements linked below. This guide helps develop and document your own ideas; it adds no extra grading requirements.
+
 [All guides](../README.md) · [Your design brief](../design/timothy-bailey.md) · [Work plan](../../WORK_PLAN.md)
 
 **Role:** Member 1  
@@ -20,20 +22,23 @@ These are questions to develop your own ideas, not prescribed answers. Choose a 
 | [Pop Art](../../design-movements/postmodernist/pop-art.md) | Which visual reference interests you, and how would you explain its connection to the movement with evidence? |
 | [Memphis Design](../../design-movements/postmodernist/memphis-design.md) | How much visual play fits your audience, and what should remain calm and easy to read? |
 
-## Required milestones for you
+## Current workflow
 
-Read [the current requirements](../CURRENT_REQUIREMENTS.md). The Canvas deadline is **October 2, 2026 at 11:59 PM**; Ahmet must confirm which of the linked README's stages are expected for Part 1.
+Read [the assignment](../../assignment.md), [templates](../../reference/page-templates.md), and [current requirements](../CURRENT_REQUIREMENTS.md).
 
-1. Complete [your personal archetype page](../../members/timothy_bailey.md) after an AI interview about your values, audience, personality, and goals. This is separate from your assigned research topics. Record the AI's recommendation, your agreement or disagreement, visual direction, sample phrasing, and explained persuasion applications.
-2. Produce **one complete sample** from your assigned topics. Have the team review all four samples and agree on a common format before producing the remaining pages.
-3. Complete your remaining assigned topics and link each page to its topic index. Confirm issue tracking with Ahmet; the instructor requests one issue per task, while Issues were disabled at setup.
-4. After review and merge, synchronize your fork with the group main and submit **your own fork URL** to Canvas. Ahmet's submission does not cover your individual submission.
+1. Create an actual issue for each page or design package, with an owner, reviewer, files, and checklist.
+2. Research your assigned topics. Each archetype needs two original static designs, one modernist and one postmodernist; each style needs two documented historical examples.
+3. Update your existing About page with introduction, actual issue links, contribution statuses, learning reflection, and credits.
+4. Submit a focused PR from your fork to the group main and request substantive teammate review. Research and designs can be separate PRs.
+5. Sync your fork after merges. Confirm the current Canvas submission route and Part 1 scope; older individual-fork submission text conflicts with the instructor's October 1 lead-submission instruction.
+
+Personal-brand interviews are optional help, not a required preliminary stage.
 
 ## Detailed workflow
 
 1. **Check the assignment.** Read the latest instructor brief, required format, due date, and AI-use rules. Put any uncertainty in your design brief. Team guidelines do not establish a grading rubric.
 2. **Prepare your workspace.** Fork the group repository or use your existing fork in the same network. Follow CONTRIBUTING.md to fetch the group `main` and create a branch such as `tim-archetypes-design`. Your `origin` is your fork and your `upstream` is the group repository.
-3. **Review existing content.** Open your linked files and preserve useful work. There is a pre-existing Explorer draft on `add-explorer-archetype` at root `explorer.md`. Coordinate with its author before using it; the assigned destination is `brand-archetypes/explorer.md`.
+3. **Review existing content.** Open your linked files and preserve useful work. Tim's Explorer and Hero drafts are merged into the group main through PR #7. Continue at `brand-archetypes/explorer.md` and `brand-archetypes/hero.md`; root instructor examples are not replacements.
 4. **Run the interview.** Copy the prompt below into your AI. Supply the actual documents if it cannot access links. Answer up to three questions at a time. Ask for an explanation or examples if a question is unclear.
 5. **Confirm your intent.** Have the AI summarize your audience, message, example, desired response, constraints, and unresolved questions. Correct that summary and explicitly confirm it before drafting.
 6. **Research one topic.** Identify the claims that need evidence, read sources, and record them in your [design brief](../design/timothy-bailey.md). Verify any brand classification or historical statement.
@@ -70,18 +75,18 @@ have read something you cannot access.
 Your first job is to understand my ideas and intent. Do not immediately
 write all my pages, choose a brand for me, or generate a finished project.
 
-Work in stages: personal archetype interview and members/timothy_bailey.md;
-one sample topic page and team agreement on format; then the remaining
-assigned pages. For my personal brand, ask about my values, audience,
-strengths, voice, and desired impression. Suggest candidate archetypes with
-reasons, ask whether I agree, and wait for my choice. Never invent my
-personality or choose an archetype on my behalf. Record visual suggestions,
-sample phrasing, and explained persuasion applications only after my input.
-Read docs/CURRENT_REQUIREMENTS.md for individual Canvas submission and
-workflow differences that need Ahmet's coordination.
+Read assignment.md, reference/page-templates.md, and docs/CURRENT_REQUIREMENTS.md.
+Help with one selected topic, original design example, or About-page contribution
+record at a time. Each archetype needs two designs (one modernist, one postmodernist);
+each style needs two historical examples with complete source records.
+An About page records my actual introduction, issue links, contribution statuses,
+learning, and credits. Never invent those details. Personal-brand exploration is
+optional if I request it; do not require a personal-archetype interview, pilot,
+four heroes, or sample-format approval before starting ordinary work.
+Do not assume a Canvas submission route; the current discrepancy needs confirmation.
 
 Start with at most THREE short questions, then STOP and wait:
-1. Are we starting my personal archetype page or a selected topic sample,
+1. Are we working on a topic, original design example, or About-page record,
    and what do I already understand or want to express?
 2. What audience and brand or website context do I want to explore, and
    what should a visitor think, feel, or do?
@@ -91,8 +96,8 @@ Start with at most THREE short questions, then STOP and wait:
 After I answer, ask focused follow-up questions in small batches. Use the
 topic-specific questions in my guide. Ask why I prefer an idea, what
 alternative I considered, and how I would recognize a successful result.
-Before drafting the remaining pages, check whether the team has approved
-our sample format. If not, help prepare the sample for review and stop.
+Use the current page template and agreed file paths. Ask only about unresolved
+choices that matter to the topic; a mandatory sample stage is not required.
 If I am unsure, explain the concept simply and offer two or three
 possibilities, clearly as options. Do not record an option as my decision
 until I choose it.
@@ -113,7 +118,10 @@ After confirmation:
   citations, access dates, results, testimonials, or statistics.
 - If browsing is unavailable, identify the sources or evidence I need
   and wait for it instead of fabricating support.
-- Help me complete the existing Markdown headings in my own voice.
+- Use the current four-section topic template while preserving useful existing work.
+- For an archetype, help create the two original static designs with image,
+  headline, CTA, named style and principle, and short explanation.
+- For a style, include two historical examples with complete source/credit records.
 - Explain how specific design decisions support my audience and intent.
 - Record the confirmed decisions and remaining questions in my design
   brief; do not claim a planned check was performed.

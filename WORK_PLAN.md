@@ -1,32 +1,31 @@
 # Work plan
 
-[Back to project index](README.md) · [Progress checklist](PROGRESS.md) · [Personal prompting and design guides](docs/README.md)
+[Project index](README.md) · [Progress](PROGRESS.md) · [Current requirements](docs/CURRENT_REQUIREMENTS.md)
 
-Ahmet Elci is the team leader. The named allocation below retains the topic split from Tim's Canvas setup message dated September 28, 2026.
+Ahmet Elci manages coordination, reviews, merges, and conflicts, per his September 30 report of the professor's instructions. He reports his management role handled. This supersedes the earlier allocation of seven persuasion pages to him; no replacement owner has been agreed.
 
-| Team member | Role | Persuasion methods | Brand archetypes | Modernist movements | Postmodernist movements | Total pages |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Ahmet Elci** | Team Leader | Reciprocity, Scarcity, Authority, Consistency, Liking, Social Proof, Unity | — | — | — | 7 |
-| **Timothy Bailey (Tim)** | Member 1 | — | Explorer, Hero, Outlaw, Sage | Bauhaus, Swiss Modernism | Pop Art, Memphis Design | 8 |
-| **Jeshan Ahmad** | Member 2 | — | Innocent, Jester, Creator, Ruler | De Stijl, Constructivism | Grunge Design, New Wave | 8 |
-| **Avyay Kaushik** | Member 3 | — | Lover, Everyman, Magician, Caregiver | Minimalist Modernism, Mid-Century Modern | Punk / Dadaist, Retro-Futurism | 8 |
+The teammates' approved allocation is preserved:
 
-## Working agreements
+| Member | Brand archetypes | Modernist styles | Postmodernist styles |
+| --- | --- | --- | --- |
+| Timothy Bailey | Explorer, Hero, Outlaw, Sage | Bauhaus, Swiss Modernism | Pop Art, Memphis Design |
+| Jeshan Ahmad | Innocent, Jester, Creator, Ruler | De Stijl, Constructivism | Grunge Design, New Wave |
+| Avyay Kaushik | Lover, Everyman, Magician, Caregiver | Minimalist Modernism, Mid-Century Modern | Punk/Dadaist, Retro-Futurism |
 
-1. Use the named assignments above; coordinate any changes in the group chat.
-2. Follow [CONTRIBUTING.md](CONTRIBUTING.md) to work from your own fork and submit a pull request.
-3. Keep each contribution focused on your assigned pages.
-4. Include sources and review the rendered Markdown before submitting.
-5. Ask for review and address feedback before Ahmet merges the pull request into `main`.
+**Unallocated coordination item:** Reciprocity, Scarcity, Authority, Consistency, Liking, Social Proof, and Unity still need an agreed owner. The instructor's generic suggested allocation is not an authorization to silently change this team's assignments or Ahmet's reported role.
 
-All 31 topic pages begin as templates. Their presence does not mean the research is complete.
+## Work in this order
 
-## Completion and coordination
+1. Read the synchronized [assignment](assignment.md) and [templates](reference/page-templates.md).
+2. Create a real [issue](https://github.com/ahmet360/archetype_design_persusion/issues) for each page or design package, naming its owner, reviewer, files, and checklist.
+3. Work in a branch of your own fork. Use the existing topic paths and preserve merged work.
+4. Cite sources and verify historical examples; create the two required original designs for each archetype.
+5. Request a substantive teammate review in the PR. Research may be merged before a separate design-example PR, as the instructor's Git workflow permits.
+6. Update your existing [About file](members/README.md) with issue links, contribution statuses, learning, and credits.
+7. Sync your fork from the group main after reviewed changes merge. Confirm Canvas submission instructions and milestone scope before submitting.
 
-Each person is responsible for the pages listed above. Reply in the group chat to acknowledge the assignment, share your GitHub username/fork, and post your PR link when ready. Raise blockers as soon as they appear. Ahmet reviews PRs, checks the completed project, and coordinates the handoff. Every member, including Ahmet, submits their own updated fork URL in Canvas.
+The older interview/design guides are optional working aids. Requirements for four heroes, a required personal-archetype interview, or a mandatory sample/pilot sequence do not appear in the October 1 assignment.
 
-Use [PROGRESS.md](PROGRESS.md) to track submitted work and review evidence. Canvas lists October 2, 2026 at 11:59 PM for Part 1. See [current requirements](docs/CURRENT_REQUIREMENTS.md) for the personal-page and sample-page stages, individual submissions, and workflow differences to confirm.
+## Milestone and submission
 
-## Personal working guides
-
-Each member has a [personal guide with an interview prompt, topic questions, and design brief](docs/README.md). Start with the interview to establish your own ideas, then research and draft one topic at a time. These guides support the assigned pages; they do not replace the instructor's requirements or establish that work is complete.
+The previously verified Canvas Part 1 deadline is October 2, 2026, 11:59 PM Eastern. Its exact scope and submission route need confirmation against the instructor's latest instructions; see [current requirements](docs/CURRENT_REQUIREMENTS.md). A merge is not a Canvas submission.

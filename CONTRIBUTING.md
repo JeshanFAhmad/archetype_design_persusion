@@ -12,7 +12,7 @@ This group repository is itself a fork of the instructor's starter. If GitHub sa
 
 ## 2. Clone your fork and connect to the group repository
 
-Replace `YOUR-USERNAME` with your GitHub username. If your fork has a different repository name, use its actual clone URL.
+Replace `YOUR-USERNAME` with your GitHub username. If your fork has a different repository name, use its actual clone URL and change the following cd command to the actual folder name.
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/archetype_design_persusion.git
@@ -26,11 +26,13 @@ If an `upstream` remote already exists, check `git remote -v` and use `git remot
 
 **Remote meanings:** `origin` is your fork; `upstream` is the group's `ahmet360/archetype_design_persusion` repository.
 
-## 3. Complete your assigned pages
+## 3. Record an issue and complete your assigned pages
+
+[GitHub Issues](https://github.com/ahmet360/archetype_design_persusion/issues) are enabled. Create an issue with the owner, reviewer, exact file paths, and a completion checklist. Link it from the PR and your About page. Do not invent or backdate issue numbers. Follow the current [assignment](assignment.md) and [templates](reference/page-templates.md).
 
 Use the role assignments in [WORK_PLAN.md](WORK_PLAN.md). Replace the TODOs in your pages, add specific examples and sources, and review the Markdown preview. The page headings are suggested organization, not an additional grading rubric.
 
-Check for existing work before replacing a template. The pre-existing `add-explorer-archetype` branch contains an Explorer draft at `explorer.md`; coordinate with its author if using it so the content lands at `brand-archetypes/explorer.md` through a reviewed pull request.
+Check for existing work before replacing a template. Tim's Explorer and Hero research is already merged through PR #7; the earlier PR #1 was closed as redundant. Continue from the group main.
 
 ## 4. Commit and push to your fork
 
@@ -71,6 +73,25 @@ git switch -c your-next-topic upstream/main
 ```
 
 For an existing topic branch, bring in new group changes with `git merge upstream/main`, resolve any conflicts, and push to your fork again.
+
+## Sync your fork after group merges
+
+On your fork's GitHub page, choose **Sync fork → Update branch** for main and verify that the source is the group repository. If GitHub reports conflicts, do not discard your commits.
+
+For a local clone, save unfinished changes safely, confirm that upstream points to the group repository, and use:
+
+```bash
+git fetch origin
+git fetch upstream
+git switch main
+git merge --ff-only origin/main
+git merge upstream/main
+git push origin main
+```
+
+If the fast-forward step fails or Git reports conflicts, stop and reconcile the branches before pushing. Do not force-push or reset away work. Branch names and the current folder must match your clone.
+
+Ahmet cannot update a teammate's fork without write permission; each owner performs this sync. Local topic branches may also need a merge from upstream/main.
 
 ## Repository owner
 

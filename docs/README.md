@@ -6,12 +6,12 @@ Use your personal guide to brief your AI, research your assigned topics, documen
 
 | Person | Assigned pages | Start here | Record your design decisions |
 | --- | ---: | --- | --- |
-| Ahmet Elci | 7 | [Instructions and AI prompt](guides/ahmet-elci.md) | [Personal design brief](design/ahmet-elci.md) |
+| Ahmet Elci | Manager | [Instructions and AI prompt](guides/ahmet-elci.md) | [Personal design brief](design/ahmet-elci.md) |
 | Timothy Bailey | 8 | [Instructions and AI prompt](guides/timothy-bailey.md) | [Personal design brief](design/timothy-bailey.md) |
 | Jeshan Ahmad | 8 | [Instructions and AI prompt](guides/jeshan-ahmad.md) | [Personal design brief](design/jeshan-ahmad.md) |
 | Avyay Kaushik | 8 | [Instructions and AI prompt](guides/avyay-kaushik.md) | [Personal design brief](design/avyay-kaushik.md) |
 
-Read the [current Canvas requirements and milestone notes](CURRENT_REQUIREMENTS.md): each member also needs a personal archetype page and an individual Canvas submission. The confirmed Canvas deadline is October 2, 2026 at 11:59 PM.
+Read [current requirements and milestone notes](CURRENT_REQUIREMENTS.md) first. The October 1 assignment uses simple About pages and two original designs per archetype. Older interview, sample-stage, and four-hero instructions in working aids are superseded. Submission route and Part 1 scope need confirmation against Canvas.
 
 ## Start in this order
 

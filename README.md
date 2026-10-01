@@ -1,28 +1,37 @@
-# Brand Archetypes, Design Styles, and Methods of Persuasion
+# Brand Archetypes, Design Styles, and Persuasion
 
-IS117 group project repository. The folder and file layout follows the team's Canvas setup message dated September 28, 2026.
+IS117 group reference guide led by **Ahmet Elci**, with **Timothy Bailey**, **Jeshan Ahmad**, and **Avyay Kaushik**.
 
-**This is the project scaffold.** Topic pages are starter templates for each team member to research and complete through pull requests.
+## Current assignment and team status
 
-## Team
+The instructor's October 1 revision is synchronized here. Start with [the assignment](assignment.md), [page templates](reference/page-templates.md), and [current requirements and team exceptions](docs/CURRENT_REQUIREMENTS.md). Tutorials under [lessons](lessons/README.md) are optional instructor examples, not student deliverables.
 
-- **Ahmet Elci** — Team Leader
-- **Timothy Bailey (Tim)** — Member 1
-- **Jeshan Ahmad** — Member 2
-- **Avyay Kaushik** — Member 3
+| Section | Required deliverable | Team pages |
+| --- | --- | --- |
+| Archetypes | 12 pages; two original static hero designs each (one modernist, one postmodernist); third optional | [Archetype index](brand-archetypes/README.md) |
+| Persuasion | 7 pages, each with a concrete application | [Persuasion index](persuasion-methods/README.md) |
+| Modernist styles | 6 pages, two documented historical examples each | [Modernist index](design-movements/modernist/README.md) |
+| Postmodernist styles | 6 pages, two documented historical examples each | [Postmodernist index](design-movements/postmodernist/README.md) |
+| About the team | One About page per member, with actual issue links and contribution reflections | [Member files](members/README.md) |
 
-See the [work plan](WORK_PLAN.md) for each person's assigned topics and the [member pages](members/README.md) for personal archetype interviews. Archetype selections are awaiting each member's choice.
+**Merged October 1:** Tim's Explorer/Hero research (#7), Jeshan's Innocent research (#3) and personal draft (#6), and Avyay's eight research pages (#4). These are merged contributions, not a declaration that the full assignment is complete. See [PROGRESS.md](PROGRESS.md) for remaining examples, sources, About pages, and peer review.
 
-**Canvas Part 1 due:** October 2, 2026 at 11:59 PM. Each member submits their own updated fork URL. See [current requirements and milestone scope](docs/CURRENT_REQUIREMENTS.md).
+**Previously verified Canvas Part 1 deadline:** October 2, 2026, 11:59 PM Eastern. The current instructor assignment says the lead submits, whereas the earlier Canvas text said each member submits their synchronized fork. Confirm the current submission route and Part 1 scope in Canvas; no submission receipt is asserted here.
 
-## Contribute
+## Team workflow
 
-This repository is public. Team members **fork it to their own GitHub accounts**, work on a branch in their fork, push there, and open a pull request into **`ahmet360/archetype_design_persusion` → `main`**. Contributors are not added as collaborators on the main repository.
+Use [GitHub Issues](https://github.com/ahmet360/archetype_design_persusion/issues) to record an owner, reviewer, files, and checklist. Issues are now enabled.
 
-- [Personal AI prompts, detailed instructions, and design documentation](docs/README.md)
-- [Progress checklist](PROGRESS.md)
-- [Fork and pull-request instructions](CONTRIBUTING.md)
-- [Work allocation from the setup message](WORK_PLAN.md)
+This repository stays public. Teammates work in **their own forks** and open PRs into **ahmet360/archetype_design_persusion → main**; no collaborator invitations are needed. Read [CONTRIBUTING.md](CONTRIBUTING.md), including how to sync a fork safely.
+
+Ahmet's role is group management, review, and conflict coordination, according to his September 30 report of the professor's instructions. The older seven-page persuasion assignment to Ahmet is superseded; its replacement ownership is not yet agreed. The teammate allocations in [WORK_PLAN.md](WORK_PLAN.md) remain unchanged.
+
+The team keeps its existing topic paths to preserve contributions. The instructor-style section indexes also link to these same files; do not create duplicate topic pages in a second folder.
+
+- [Named work plan](WORK_PLAN.md)
+- [Verified progress and remaining work](PROGRESS.md)
+- [About-page files](members/README.md)
+- [Optional personal AI guides and design documentation](docs/README.md)
 
 ## Persuasion methods (7)
 
