@@ -20,7 +20,7 @@ These are ways to interpret the archetype, not a checklist brands must follow. �
 
 ## Brand or website example
 
-Innocent Drinks (https://www.innocentdrinks.co.uk/). In its "the full story” section, the company mentions drinks made from fruits and vegetables, and states that their mission is to help people “do themselves some good.” In my opinion, this clear, positive language is characteristic of the Innocent archetype. This is my analysis of website information, not a statement that this company uses the archetype officially.
+Innocent Drinks (https://www.innocentdrinks.co.uk/). In its "things we make” section, the company mentions drinks made from fruits and vegetables, and states that their mission is to help people “do themselves some good.” In my opinion, this clear, positive language is characteristic of the Innocent archetype. This is my analysis of website information, not a statement that this company uses the archetype officially.
 Research into the Innocent website also considers how the words and images used influence the brand identity of the company. It is mentioned that brand identity may be complex, as a reminder not to base the interpretation only on the company name, as stated in Kim’s, “Not so ‘innocent’ after all?”.
 
 
