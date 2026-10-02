@@ -10,11 +10,7 @@ My goal is for my design projects to be seen by my fellow students and teachers.
 
 ## My chosen archetype
 
-AI recommendation: Creator; Jester is another option. Creator appears to be the better match since I mentioned that I like creating things. Jester may be another good match since I would like my creations to be enjoyable. And as much as I'd like to choose Jester, Creator seems like the better pick, so I will choose that.
-
-## Why the AI suggested it and whether I agree
-
-My personality traits that the AI picked up on are "Creator" since I love creating something, and "Jester" because I would like others to be entertained by whatever I create. I personally agree with these suggestions because they fit with exactly what I like to be.
+Creator appears to be the better match since I like creating things. Jester may be another good match since I would like my creations to be enjoyable. And as much as I'd like to choose Jester, Creator seems like the better pick, so I will choose that.
 
 ## Visual and verbal direction
 
@@ -22,7 +18,7 @@ My personality traits that the AI picked up on are "Creator" since I love creati
 | --- | --- | --- |
 | Imagery | Original illustrations, or images that show ideas being made. | This matches the Creator archetypal figure since there is creativity and creation in this picture. I would pick images that are vibrant and exciting. |
 | Colors | A bright palette, with a neutral background. | These colors can create a feeling of creativity and energy while still being very friendly. |
-| Fonts | A bold, expressive font for headings and a simple, easy-to-read font for body text. | Pending |
+| Fonts | A bold, expressive font for headings and a simple, easy-to-read font for body text. | Heading can reveal personality, but readable body text allows my ideas to be understood by friends and teachers. |
 | Sample phrasing | “Let’s turn a new idea into something.” | It sounds inviting, and it demonstrates that I like to create something new. |
 
 ## Applying persuasion to my personal brand
@@ -38,6 +34,15 @@ Commitment and consistency: I can declare my commitment to creativity and fun an
 ## Sources and image credits
 
 Robert Cialdini / Influence at Work, “Dr. Robert Cialdini’s Seven Principles of Persuasion,” https://www.influenceatwork.com/7-principles-of-persuasion/ — consulted for the descriptions of the principles above. Accessed October 1, 2026.
+
+## Contributions and related issues
+
+- Personal page update: [Jeshan f ahmad personal archetype final updated](https://github.com/ahmet360/archetype_design_persusion/pull/6)
+- Related issue: [Filled out personal brand archetype page. #4](https://github.com/JeshanFAhmad/archetype_design_persusion/issues/4)
+
+## Learning reflection
+
+I learned that Creator fits me since I like creating and having something unique in the design. In addition, I found out how to make pull requests so that my team can check the changes. For next time, I will try to describe better the connection between my design and audience.
 
 ## Review and submission
 
