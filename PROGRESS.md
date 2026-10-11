@@ -2,7 +2,13 @@
 
 [Project index](README.md) · [Work plan](WORK_PLAN.md) · [Current requirements](docs/CURRENT_REQUIREMENTS.md)
 
-**Verified October 10, 2026.** This tracker distinguishes research drafts, assignment deliverables, agent-assisted review, student peer review, merges, fork synchronization, and Canvas submission.
+**Verified October 11, 2026.** This tracker distinguishes research drafts, assignment deliverables, agent-assisted review, student peer review, merges, fork synchronization, and Canvas submission.
+
+## October 11 follow-up
+
+Before this tracker-only update, group main remained at `49f7a90cf71cd05415edf70e5bb28fe9f5f578ae`. No new commits, PR activity, issue activity, or teammate fork-head changes were found after the October 10 integration. The instructor main also remains unchanged. Previously reviewed topic/member content was not re-reviewed. Differences in fork counts since the table below are tracker-only commits, not new missing coursework.
+
+Chrome access recovered. The group chat was read successfully and has no newer messages; Canvas now reaches NJIT sign-in and needs the user's authenticated session. The sign-in tab was left open. No merge, submission, or external message was performed by this follow-up.
 
 ## October 10 manager integration
 
@@ -66,13 +72,13 @@ These counts include history and tracker-only commits, not numbers of missing de
 
 ## Communication and Canvas
 
-The last successful read of “Is117 group project” in Google Messages was October 7. It showed no message newer than Timothy's October 1, 5:28 PM acknowledgement of Ahmet's updated requirements message at 5:26 PM. Browser access failed on the later October 9 checks and during this October 10 task; newer SMS has not been verified. No SMS or Discord message was sent during this integration. Ahmet sends group replies himself.
+On October 11, Chrome access recovered and “Is117 group project” was read successfully. The latest visible message is still Timothy's October 1, 5:28 PM acknowledgement of Ahmet's updated requirements message at 5:26 PM. No newer acknowledgement, PR link, or blocker was found. Browser access had failed during the October 9–10 checks. No SMS or Discord message was sent; Ahmet sends group replies himself.
 
-[Canvas Part 1](https://njit.instructure.com/courses/70711/assignments/761949) was last read on October 3 with an October 2, 2026, 11:59 PM Eastern deadline, URL submission, and instructions that each member submits a fork synchronized with the leader. It showed “Start Assignment,” with no receipt. An October 4 gradebook check showed the assignment missing without a submission timestamp. These are historical observations, not a new October 10 Canvas check.
+[Canvas Part 1](https://njit.instructure.com/courses/70711/assignments/761949) was last read on October 3 with an October 2, 2026, 11:59 PM Eastern deadline, URL submission, and instructions that each member submits a fork synchronized with the leader. It showed “Start Assignment,” with no receipt. An October 4 gradebook check showed the assignment missing without a submission timestamp. These are historical observations. On October 11, opening the same assignment URL redirected to NJIT sign-in with an empty password field, so the assignment, deadline, and current submission status could not be re-read. The sign-in tab was left open for the user; no credentials were entered and nothing was submitted.
 
 The instructor assignment says the lead submits. Canvas's Part 1 label did not explicitly map every stage of the instructor README to that date. Current scope, any newer instructor arrangement, submission route, and receipt must be checked when Canvas access is restored. No conclusion is made about teammates' personal Canvas status.
 
-Ahmet's management integration and About record are prepared, but **neither final assignment completion nor Canvas submission is claimed**. The immediate access blocker is the local browser connection failing before Canvas loads.
+Ahmet's management integration and About record are prepared, but **neither final assignment completion nor Canvas submission is claimed**. The previous local-browser failure has resolved. The current access blocker is the expired Canvas/NJIT session: user sign-in is needed before the assignment or receipt can be verified.
 
 ## Earlier verified history
 
