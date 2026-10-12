@@ -2,7 +2,13 @@
 
 [Project index](README.md) · [Work plan](WORK_PLAN.md) · [Current requirements](docs/CURRENT_REQUIREMENTS.md)
 
-**Verified October 11, 2026.** This tracker distinguishes research drafts, assignment deliverables, agent-assisted review, student peer review, merges, fork synchronization, and Canvas submission.
+**Submission status verified October 12, 2026; topic review retained from October 10.** This tracker distinguishes research drafts, assignment deliverables, agent-assisted review, student peer review, merges, fork synchronization, and Canvas submission.
+
+## October 12 Canvas submission
+
+After Ahmet signed in, Canvas Part 1 was re-read and the public repository URL was submitted under his explicit instruction. Canvas displayed **Assignment successfully submitted** and **Submitted! Oct 12 at 12:40am (late)**. The gradebook independently recorded the URL submission. Submitted repository: https://github.com/ahmet360/archetype_design_persusion, at main `b32ce00db990a2098f64ebad07dc37a172b9bec0` before these status-only edits.
+
+The assignment still states that each member submits a fork up to date with the leader, with a deadline of October 2 at 11:59 PM Eastern. This verifies Ahmet's Part 1 submission only; it does not verify teammates' submissions, a grade, full team deliverables, or student peer review. The instructor/Canvas difference about overall scope remains unresolved. Manager handoff issue #28 is closed with the verified receipt; remaining team work stays below.
 
 ## October 11 follow-up
 
@@ -12,7 +18,7 @@ Chrome access recovered. The group chat was read successfully and has no newer m
 
 ## October 10 manager integration
 
-Ahmet explicitly authorized finishing his manager-side work and submitting the repository in this chat. The available repository work was completed. Canvas could not be opened because the local browser connection failed before loading the site, including after a reset. **No Canvas submission or receipt was produced.** This direct user request authorized today's integration; it does not authorize future automatic checks to merge or submit.
+Ahmet explicitly authorized finishing his manager-side work and submitting the repository in this chat. The available repository work was completed. Canvas could not be opened because the local browser connection failed before loading the site, including after a reset. **No Canvas submission or receipt was produced on October 10; this blocker was resolved on October 12 as recorded above.** This direct user request authorized today's integration; it does not authorize future automatic checks to merge or submit.
 
 - Merged Timothy's combined [PR #27](https://github.com/ahmet360/archetype_design_persusion/pull/27), head `a3dd2aa30f17480ccffe76ea04f3e9ff97a9dd79`, at merge commit `d992b530d0ab740a13b3ce4afbdfe3ecc6fbaa8a`. It contains Outlaw, Sage, Bauhaus, Swiss Modernism, Pop Art, Memphis Design, and Timothy's submitted reflection/work record.
 - Merged Jeshan's [#10 Innocent correction](https://github.com/ahmet360/archetype_design_persusion/pull/10) at `42bee63642788f1b162a2f919a81cb01cf3f529c` and [#11 About revision](https://github.com/ahmet360/archetype_design_persusion/pull/11) at `a1369f37c9a5934e07cec0902f875c5b28278f7c`.
@@ -23,7 +29,7 @@ Ahmet explicitly authorized finishing his manager-side work and submitting the r
 - Corrected the stale Innocent status and linked its already-cited source directly. Corrected Memphis's designer spelling, decorative-image guidance, and reduced-motion advice against The Met and W3C sources linked on that page.
 - Updated the project and member indexes. All seven edited files were fetched again and matched the intended content. Relative Markdown file links were checked against the repository tree; no missing target or conflict marker was found. This is not a claim that every external source, image, or rendered page was checked today.
 
-The repository is still public with Issues enabled. **No open PRs remain at this check.** Closing or merging PRs does not establish full coursework completion. [Manager handoff issue #28](https://github.com/ahmet360/archetype_design_persusion/issues/28) remains open for current Canvas verification and the submission receipt.
+The repository is still public with Issues enabled. **No open PRs remain at this check.** Closing or merging PRs does not establish full coursework completion. [Manager handoff issue #28](https://github.com/ahmet360/archetype_design_persusion/issues/28) is completed for Ahmet's manager integration and verified Part 1 submission; remaining team requirements are tracked separately.
 
 ## Current contribution status
 
@@ -34,7 +40,7 @@ The repository is still public with Issues enabled. **No open PRs remain at this
 | Timothy Bailey | All eight assigned research drafts: Explorer/Hero in #7; Outlaw/Sage/Bauhaus/Swiss Modernism/Pop Art/Memphis in #27. Submitted reflection and eight actual issue records organized in his About page. | Explorer, Hero, and Outlaw definition citations; two complete historical-work records for each of four styles; two original heroes per assigned archetype; substantive student peer review; sync his fork after integration. |
 | Jeshan Ahmad | Innocent research in #3, correction in #10; personal/About drafts in #6 and #11. Reflection and real fork issue #4 retained; contribution statuses updated. | Jester, Creator, Ruler, De Stijl, Constructivism, Grunge Design, and New Wave remain templates. Original designs, historical examples, issue records for remaining work, student peer review, and fork sync remain. |
 | Avyay Kaushik | All eight assigned research drafts merged through #4. | Two complete historical-work records per style; original designs for his four archetypes; About introduction/contribution links/reflection/credits; student peer review; substantive fork sync. His About file is still a template. |
-| Ahmet Elci | Authorized integration, index and status corrections, management contribution record, and his user-provided reflection are recorded. | Verify the current Canvas milestone/submission route and receipt; coordinate remaining team work and unallocated ownership. No personal topic-writing backlog is assigned here. |
+| Ahmet Elci | Authorized integration, index and status corrections, management contribution record, and his user-provided reflection are recorded. | Part 1 URL submission verified October 12 at 12:40 AM Eastern (late); coordinate remaining team work and unallocated ownership. No personal topic-writing backlog is assigned here. |
 
 The **seven persuasion pages** (Reciprocity, Scarcity, Authority, Consistency, Liking, Social Proof, and Unity) still have no newly agreed owner. Do not silently assign them to Ahmet or invent a replacement owner.
 
@@ -74,11 +80,9 @@ These counts include history and tracker-only commits, not numbers of missing de
 
 On October 11, Chrome access recovered and “Is117 group project” was read successfully. The latest visible message is still Timothy's October 1, 5:28 PM acknowledgement of Ahmet's updated requirements message at 5:26 PM. No newer acknowledgement, PR link, or blocker was found. Browser access had failed during the October 9–10 checks. No SMS or Discord message was sent; Ahmet sends group replies himself.
 
-[Canvas Part 1](https://njit.instructure.com/courses/70711/assignments/761949) was last read on October 3 with an October 2, 2026, 11:59 PM Eastern deadline, URL submission, and instructions that each member submits a fork synchronized with the leader. It showed “Start Assignment,” with no receipt. An October 4 gradebook check showed the assignment missing without a submission timestamp. These are historical observations. On October 11, opening the same assignment URL redirected to NJIT sign-in with an empty password field, so the assignment, deadline, and current submission status could not be re-read. The sign-in tab was left open for the user; no credentials were entered and nothing was submitted.
+[Canvas Part 1](https://njit.instructure.com/courses/70711/assignments/761949) was re-read on October 12. The deadline remains October 2, 2026, at 11:59 PM Eastern, with website-URL submission and instructions that each member submits a synchronized fork. Ahmet's public group repository URL was accepted and Canvas displayed the October 12, 12:40 AM late submission receipt. Earlier missing/unauthenticated observations are superseded for Ahmet's submission.
 
-The instructor assignment says the lead submits. Canvas's Part 1 label did not explicitly map every stage of the instructor README to that date. Current scope, any newer instructor arrangement, submission route, and receipt must be checked when Canvas access is restored. No conclusion is made about teammates' personal Canvas status.
-
-Ahmet's management integration and About record are prepared, but **neither final assignment completion nor Canvas submission is claimed**. The previous local-browser failure has resolved. The current access blocker is the expired Canvas/NJIT session: user sign-in is needed before the assignment or receipt can be verified.
+The instructor assignment says the lead submits, while Canvas says each member submits. Canvas's Part 1 label still does not explicitly map every stage of the instructor README to that date. Ahmet's receipt does not resolve that scope difference or establish teammates' personal Canvas status. Remaining team content and review requirements above are unchanged. No SMS or Discord message was sent.
 
 ## Earlier verified history
 
