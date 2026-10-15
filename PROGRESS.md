@@ -2,7 +2,21 @@
 
 [Project index](README.md) · [Work plan](WORK_PLAN.md) · [Current requirements](docs/CURRENT_REQUIREMENTS.md)
 
-**Submission status verified October 12, 2026; topic review retained from October 10.** This tracker distinguishes research drafts, assignment deliverables, agent-assisted review, student peer review, merges, fork synchronization, and Canvas submission.
+**Repository and new PR review checked October 15, 2026; Canvas receipt retained from October 12.** This tracker distinguishes research drafts, assignment deliverables, agent-assisted review, student peer review, merges, fork synchronization, and Canvas submission.
+
+## October 15 research submissions and review
+
+Jeshan submitted seven new open research PRs: [#29 Jester](https://github.com/ahmet360/archetype_design_persusion/pull/29), [#30 Creator](https://github.com/ahmet360/archetype_design_persusion/pull/30), [#31 Ruler](https://github.com/ahmet360/archetype_design_persusion/pull/31), [#32 De Stijl](https://github.com/ahmet360/archetype_design_persusion/pull/32), [#34 Grunge Design](https://github.com/ahmet360/archetype_design_persusion/pull/34), [#35 New Wave](https://github.com/ahmet360/archetype_design_persusion/pull/35), and [#36 Constructivism](https://github.com/ahmet360/archetype_design_persusion/pull/36). Earlier Constructivism [#33](https://github.com/ahmet360/archetype_design_persusion/pull/33) is closed **unmerged**. None of these seven open PRs was merged during this check.
+
+The seven unique research file blobs and all PR diffs were reviewed for requirement coverage and integration overlap. Selected museum records were checked; this was not an exhaustive external-link or rendered-page audit. Main remains `31fd1d8befb4a8e277300caa68a28c8a0d1db67d` before this tracker-only update, so unchanged merged topic/member files retain their earlier review.
+
+- **Integration overlap:** #30 contains exactly the same Jester file blob as #29, in addition to Creator. Consolidate or split these changes before integration, and close a redundant PR only after verifying its content is preserved. #31, #32, #34, #35, and #36 also include an unrelated one-blank-line change to Jester; remove that incidental edit to keep each PR focused. GitHub currently reports all seven as mergeable/clean against the checked main; overlap is not a verified merge conflict, and mergeability must be rechecked after any integration.
+- **Historical works:** #32 has a contemporary 2017 website example but no pair of documented historical De Stijl works. #34 has one Ray Gun cover, and #35 has one Weingart poster; each needs a second historical work and complete source/credit/reuse records. #36 names two works, but Rodchenko needs a direct object record and complete attribution/reuse details. The paragraph calling both examples “posters” should distinguish the sculpture. [MoMA's direct record](https://www.moma.org/collection/works/81043) verifies *Spatial Construction no. 12*, c. 1920, as a plywood-and-wire construction; it is not a poster.
+- **Original designs:** Jester, Creator, and Ruler add research text, not the required modernist/postmodernist hero pairs. Those design deliverables remain unverified for Jeshan's four archetypes, including the earlier Innocent page. Research and design follow-ups may be separate PRs; a research merge would not establish full completion.
+- **Status and work records:** All seven new pages still say “Starter template.” Change these to accurate research-submitted/review-pending statuses, list remaining deliverables, and update actual contribution issue links/statuses in the About page without inventing earlier planning records. Creator also repeats “tangible or tangible”; Grunge/New Wave source punctuation needs cleanup.
+- **Review evidence:** GitHub reviews/comments on the new PRs are from Sourcery, not a student. This agent-assisted check is also separate from the required student peer review.
+
+Jeshan's fork main now contains the checked group main plus two fork-only Jester commits, with a net difference of one blank line. His new research is on the PR branches. Timothy's and Avyay's fork heads are unchanged. No fork was edited or reset, no external message was sent, and no coursework was submitted during this follow-up.
 
 ## October 12 Canvas submission
 
@@ -29,16 +43,16 @@ Ahmet explicitly authorized finishing his manager-side work and submitting the r
 - Corrected the stale Innocent status and linked its already-cited source directly. Corrected Memphis's designer spelling, decorative-image guidance, and reduced-motion advice against The Met and W3C sources linked on that page.
 - Updated the project and member indexes. All seven edited files were fetched again and matched the intended content. Relative Markdown file links were checked against the repository tree; no missing target or conflict marker was found. This is not a claim that every external source, image, or rendered page was checked today.
 
-The repository is still public with Issues enabled. **No open PRs remain at this check.** Closing or merging PRs does not establish full coursework completion. [Manager handoff issue #28](https://github.com/ahmet360/archetype_design_persusion/issues/28) is completed for Ahmet's manager integration and verified Part 1 submission; remaining team requirements are tracked separately.
+The repository is still public with Issues enabled. **No open PRs remained at the October 10 integration check; the October 15 PRs are listed above.** Closing or merging PRs does not establish full coursework completion. [Manager handoff issue #28](https://github.com/ahmet360/archetype_design_persusion/issues/28) is completed for Ahmet's manager integration and verified Part 1 submission; remaining team requirements are tracked separately.
 
 ## Current contribution status
 
-**17 of 31 topic pages contain merged research drafts.** Fourteen topic pages remain starter templates. The required original designs are not present in the merged topic work; instructor assets under `assets/tutorial/` are not student designs.
+**17 of 31 topic pages contain merged research drafts.** Fourteen topic pages remain starter templates on main; seven of those now have Jeshan's submitted research in the open PRs listed above. The required original designs are not present in the merged topic work; instructor assets under `assets/tutorial/` are not student designs.
 
 | Member | Merged and documented work | Remaining work or verification |
 | --- | --- | --- |
 | Timothy Bailey | All eight assigned research drafts: Explorer/Hero in #7; Outlaw/Sage/Bauhaus/Swiss Modernism/Pop Art/Memphis in #27. Submitted reflection and eight actual issue records organized in his About page. | Explorer, Hero, and Outlaw definition citations; two complete historical-work records for each of four styles; two original heroes per assigned archetype; substantive student peer review; sync his fork after integration. |
-| Jeshan Ahmad | Innocent research in #3, correction in #10; personal/About drafts in #6 and #11. Reflection and real fork issue #4 retained; contribution statuses updated. | Jester, Creator, Ruler, De Stijl, Constructivism, Grunge Design, and New Wave remain templates. Original designs, historical examples, issue records for remaining work, student peer review, and fork sync remain. |
+| Jeshan Ahmad | Innocent research in #3, correction in #10; personal/About drafts in #6 and #11. Seven remaining research topics submitted in open #29/#30/#31/#32/#34/#35/#36, agent-reviewed October 15 but not merged. | Resolve overlapping Jester changes and stale statuses; complete historical records, original designs, actual issue/About contribution records, and student peer review. Fork main contains current group main as checked October 15; research remains on PR branches. |
 | Avyay Kaushik | All eight assigned research drafts merged through #4. | Two complete historical-work records per style; original designs for his four archetypes; About introduction/contribution links/reflection/credits; student peer review; substantive fork sync. His About file is still a template. |
 | Ahmet Elci | Authorized integration, index and status corrections, management contribution record, and his user-provided reflection are recorded. | Part 1 URL submission verified October 12 at 12:40 AM Eastern (late); coordinate remaining team work and unallocated ownership. No personal topic-writing backlog is assigned here. |
 
@@ -66,7 +80,9 @@ No completed student peer review has been verified. The earlier successful autom
 
 ## Fork synchronization
 
-Compared against group main `fb04ea652ea8cb097042c9b3fbede82c929d3dd8`, immediately before this tracker update:
+**October 15 update:** Jeshan's main is `300a12e34012140434d1f80fc23069581635acb4`. Compared with group main `31fd1d8befb4a8e277300caa68a28c8a0d1db67d`, it is 0 commits behind and 2 ahead; the two fork-only commits have a net one-blank-line Jester change. This verifies incorporation of group main, not completion or integration of his seven research PRs. Timothy's and Avyay's heads below are unchanged. This progress-only commit must not be treated as a new substantive sync regression.
+
+The following is the **historical October 10 comparison**, retained for context, against group main `fb04ea652ea8cb097042c9b3fbede82c929d3dd8`:
 
 | Fork | Verified main head | Group-only / fork-only commits | Meaning |
 | --- | --- | --- | --- |
@@ -74,15 +90,15 @@ Compared against group main `fb04ea652ea8cb097042c9b3fbede82c929d3dd8`, immediat
 | JeshanFAhmad | `7b52af237e148c2b0ba4a9d1d1030bbcb3196f50` | 23 / 0 | His submitted PR changes are merged into the group; fork main still needs the later contributions and integration updates. |
 | Typical728 | `06b3dd26185fdd6c7fa09c25be5adc0247f8548a` | 71 / 0 | Still missing substantive group and instructor updates. |
 
-These counts include history and tracker-only commits, not numbers of missing deliverables. Today's research merges and About corrections are substantive; subsequent tracker-only commits must not be reported as a fresh content regression. No teammate fork was changed. The connected account previously had no push permission to those forks; the owners should use the safe steps in [CONTRIBUTING.md](CONTRIBUTING.md#sync-your-fork-after-group-merges). Preserve local work and do not force-reset.
+These counts include history and tracker-only commits, not numbers of missing deliverables. The October 10 research merges and About corrections were substantive; subsequent tracker-only commits must not be reported as a fresh content regression. No teammate fork was changed. The connected account previously had no push permission to those forks; the owners should use the safe steps in [CONTRIBUTING.md](CONTRIBUTING.md#sync-your-fork-after-group-merges). Preserve local work and do not force-reset.
 
 ## Communication and Canvas
 
-On October 11, Chrome access recovered and “Is117 group project” was read successfully. The latest visible message is still Timothy's October 1, 5:28 PM acknowledgement of Ahmet's updated requirements message at 5:26 PM. No newer acknowledgement, PR link, or blocker was found. Browser access had failed during the October 9–10 checks. No SMS or Discord message was sent; Ahmet sends group replies himself.
+On October 15, “Is117 group project” was read successfully. At 9:30–9:31 AM Eastern, Jeshan reported adding his part and clarified that he had made pull requests. The seven open PRs independently verify that submission report; they do not establish a merge or full assignment completion. No new technical blocker or student-review evidence was provided. Timothy's earlier October 1 acknowledgement is retained as history. No SMS or Discord message was sent; Ahmet sends group replies himself.
 
 [Canvas Part 1](https://njit.instructure.com/courses/70711/assignments/761949) was re-read on October 12. The deadline remains October 2, 2026, at 11:59 PM Eastern, with website-URL submission and instructions that each member submits a synchronized fork. Ahmet's public group repository URL was accepted and Canvas displayed the October 12, 12:40 AM late submission receipt. Earlier missing/unauthenticated observations are superseded for Ahmet's submission.
 
-The instructor assignment says the lead submits, while Canvas says each member submits. Canvas's Part 1 label still does not explicitly map every stage of the instructor README to that date. Ahmet's receipt does not resolve that scope difference or establish teammates' personal Canvas status. Remaining team content and review requirements above are unchanged. No SMS or Discord message was sent.
+The instructor assignment says the lead submits, while Canvas says each member submits. Canvas's Part 1 label still does not explicitly map every stage of the instructor README to that date. Ahmet's receipt does not resolve that scope difference or establish teammates' personal Canvas status. The October 15 research submissions advance Jeshan's work, but the remaining content and student-review requirements above are not verified complete. No SMS or Discord message was sent.
 
 ## Earlier verified history
 
